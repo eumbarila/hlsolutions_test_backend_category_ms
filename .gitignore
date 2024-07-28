@@ -1,0 +1,8 @@
+.env
+node_modules
+*.log
+*.pot
+*.pyc
+_pycache_/
+local_settings.py
+migrations
